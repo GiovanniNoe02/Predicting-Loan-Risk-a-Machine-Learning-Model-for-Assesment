@@ -1,0 +1,3 @@
+--- TEAM 17 KNIME Challenge and ML Course Project ---
+
+To facilitate the dataset upload in KNIME, it was decided to convert its format from .json to .csv. Consequently, the dataset file also had to be included in this folder. Since it was necessary to reset the workflow nodes to meet the file size requirements for the .rar archive, the evaluation committee will need to modify the CSV Reader nodes so that they read the file from the correct source to ensure proper data loading.
